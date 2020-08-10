@@ -36,3 +36,9 @@
 [website_vsc]: https://code.visualstudio.com/
 [website_git]: https://git-scm.com/
 [website_github]: https://github.com/
+
+Based on:
+
+https://www.youtube.com/watch?v=ECuqb5Tv9qI
+
+https://github.com/gautamkrishnar/blog-post-workflow
