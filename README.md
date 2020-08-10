@@ -13,6 +13,10 @@
 
 <br>
 
+# :star: Latest Youtube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 # :star: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
