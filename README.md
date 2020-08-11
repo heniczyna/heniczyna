@@ -11,6 +11,8 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website_git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website_github]
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/dusk/64/000000/python.png" />][website_python]
+[<img align="left" alt="TensorFlow" width="130px" src="https://www.gstatic.com/devrel-devsite/prod/va2f579f943e40687d02fe75a771878e054c901286ea550f8e49c5efb402dac68/tensorflow/images/lockup.svg" />][website_tensorflow]
+[<img align="left" alt="HP" width="26px" src="https://img.icons8.com/color/48/000000/hp.png" />][website_hp]
 
 <br>
 
@@ -38,6 +40,8 @@
 [website_git]: https://git-scm.com/
 [website_github]: https://github.com/
 [website_python]: https://www.python.org/
+[website_tensorflow]: https://www.tensorflow.org/
+[website_hp]: https://pl.wikipedia.org/wiki/Hewlett-Packard
 
 Based on:
 * https://www.youtube.com/watch?v=ECuqb5Tv9qI
