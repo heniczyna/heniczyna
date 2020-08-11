@@ -34,9 +34,9 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
-# :star: Latest mc:True Posts
-<!-- MCTRUE:START -->
-<!-- MCTRUE:END -->
+# :star: Latest StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
 [website]: https://www.google.com/
 [youtube]: https://www.youtube.com/
