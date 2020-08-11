@@ -36,6 +36,8 @@
 
 # :star: Latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by heniczyna for TensorFlow tutorials Training model with less images than expected](https://stackoverflow.com/questions/61064717/tensorflow-tutorials-training-model-with-less-images-than-expected/62129706#62129706)
+- [TensorFlow tutorials Training model with less images than expected](https://stackoverflow.com/questions/61064717/tensorflow-tutorials-training-model-with-less-images-than-expected)
 <!-- STACKOVERFLOW:END -->
 
 [website]: https://www.google.com/
