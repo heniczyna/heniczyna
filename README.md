@@ -16,7 +16,7 @@
 
 <br>
 
-# :star: Latest Youtube Videos
+# :star: Latest Youtube Videos (example only)
 <!-- YOUTUBE:START -->
 - [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
@@ -25,7 +25,7 @@
 - [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
 <!-- YOUTUBE:END -->
 
-# :star: Latest Blog Posts
+# :star: Latest Blog Posts (example only)
 <!-- BLOG-POST-LIST:START -->
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
