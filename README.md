@@ -40,6 +40,10 @@
 - [TensorFlow tutorials Training model with less images than expected](https://stackoverflow.com/questions/61064717/tensorflow-tutorials-training-model-with-less-images-than-expected)
 <!-- STACKOVERFLOW:END -->
 
+# :star: GPW Giełda Papierów Wartościowych
+<!-- GPW:START -->
+<!-- GPW:END -->
+
 # :star: Echo
 <!-- CI:START -->
 <!-- CI:END -->
