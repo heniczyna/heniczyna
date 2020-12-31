@@ -42,11 +42,11 @@
 
 # :star: GPW Giełda Papierów Wartościowych
 <!-- GPW:START -->
-- [December 24-25, 2020 - Closing days](https://www.gpw.pl/news?cmn_id=110337)
-- [June 11, 2020 - Closing day](https://www.gpw.pl/news?cmn_id=109679)
 - [Statement of the Warsaw Stock Exchange concerning the continuity of safe trade at a time of ...](https://www.gpw.pl/news?cmn_id=109417)
 - [Information for Exchange Members regarding the global coronavirus (COVID-19) situation](https://www.gpw.pl/news?cmn_id=109408)
 - [Reference Rates WIBID and WIBOR – changes in term structure and publication time](https://www.gpw.pl/news?cmn_id=109336)
+- [Finance & Investment Forum took place on 10-11 January 2020](https://www.gpw.pl/news?cmn_id=109250)
+- [Conference: Warsaw Passive Investment Conference 2020](https://www.gpw.pl/news?cmn_id=109244)
 <!-- GPW:END -->
 
 # :star: Echo
