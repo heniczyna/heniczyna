@@ -17,6 +17,7 @@
 [<img align="left" alt="HP" width="26px" src="https://img.icons8.com/color/48/000000/hp.png" />][website_hp]
 [<img align="left" alt="Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />][website_colab]
 [<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />][website_keras]
+[<img align="left" alt="Altium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Altium_Logo.svg/1280px-Altium_Logo.svg.png" />][website_altium]
 
 <br>
 
