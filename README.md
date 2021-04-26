@@ -15,6 +15,7 @@
 [<img align="left" alt="TensorFlow" width="130px" src="https://www.gstatic.com/devrel-devsite/prod/va2f579f943e40687d02fe75a771878e054c901286ea550f8e49c5efb402dac68/tensorflow/images/lockup.svg" />][website_tensorflow]
 [<img align="left" alt="HP" width="26px" src="https://img.icons8.com/color/48/000000/hp.png" />][website_hp]
 [<img align="left" alt="Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />][website_colab]
+[<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />][website_keras]
 
 <br>
 
