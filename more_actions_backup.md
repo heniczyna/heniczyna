@@ -1,4 +1,12 @@
-Copy from `README.md`, originally added to test GitHub actions, definitions still available in [workflows](https://github.com/heniczyna/heniczyna/tree/master/.github/workflows)
+Copy from `README.md`, originally added just to become familiar and test GitHub actions, definitions still available in [workflows](https://github.com/heniczyna/heniczyna/tree/master/.github/workflows)
+
+> * Note! Make sure to ENABLE required workflows in https://github.com/heniczyna/heniczyna/actions (I disabled them manually as they were failing when they could not find right tags in `README.md`, for example action called `Latest GPW activity` fails with error:
+> ```
+> Error: Cannot find the comment tag on the readme:
+> <!-- GPW:START -->
+> <!-- GPW:END -->
+> ```
+> * Each of this fail sent me an email with notification, therefore to stop this unwanted action I disabled them
 
 # :star: Latest Youtube Videos (example only)
 <!-- YOUTUBE:START -->
