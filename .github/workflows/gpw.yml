@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-more_actions_backup-with-gpw:
+  update-readme-with-gpw:
     name: Update this repo's README with latest GPW activity
     runs-on: ubuntu-latest
     steps:
