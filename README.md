@@ -17,7 +17,7 @@
 [<img align="left" alt="HP" width="26px" src="https://img.icons8.com/color/48/000000/hp.png" />][website_hp]
 [<img align="left" alt="Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />][website_colab]
 [<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />][website_keras]
-[<img align="left" alt="Altium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Altium_Logo.svg/1280px-Altium_Logo.svg.png" />][website_altium]
+[<img align="left" alt="Altium" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Altium_Logo.svg/1280px-Altium_Logo.svg.png" />][website_altium]
 
 <br>
 
@@ -63,11 +63,16 @@
 [website]: https://www.google.com/
 [youtube]: https://www.youtube.com/
 [website_vsc]: https://code.visualstudio.com/
+[website_MCUXpresso]: https://mcuxpresso.nxp.com/en/welcome
 [website_git]: https://git-scm.com/
+[website_git_alt]: https://git-scm.com/
 [website_github]: https://github.com/
 [website_python]: https://www.python.org/
 [website_tensorflow]: https://www.tensorflow.org/
 [website_hp]: https://pl.wikipedia.org/wiki/Hewlett-Packard
+[website_colab]: https://colab.research.google.com
+[website_keras]: https://keras.io/
+[website_altium]: https://www.altium.com/altium-designer/
 
 Based on:
 * https://www.youtube.com/watch?v=ECuqb5Tv9qI
