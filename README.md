@@ -1,11 +1,11 @@
-# Contact with me:
+# :star: Contact with me:
 
 [<img align="left" alt="google.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="youtube.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br>
 
-# Languages and Tools:
+# :star: Languages and Tools:
 
 [<img align="left" alt="MCUXpresso" width="26px" src="https://mcuxpresso.nxp.com/static/icon/icon_ide.png" />][website_MCUXpresso]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website_vsc]
@@ -46,6 +46,8 @@
 [website_latex]: https://www.latex-project.org/
 [website_ubuntu]: https://ubuntu.com/
 [website_hp]: https://pl.wikipedia.org/wiki/Hewlett-Packard
+
+<br>
 
 Based on:
 * https://www.youtube.com/watch?v=ECuqb5Tv9qI
