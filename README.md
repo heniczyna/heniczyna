@@ -19,7 +19,7 @@
 [<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />][website_keras]
 [<img align="left" alt="Altium_Designer" width="52px" src="https://assets.website-files.com/5cd19234373c953dced9a059/5ce4072d367ffb442822f2d3_Logo%20Altium%20Designer.png" />][website_altium_designer]
 [<img align="left" alt="Latex" width="52px" src="https://seeklogo.com/images/L/Latex-logo-5EAE2E278A-seeklogo.com.png" />][website_latex]
-
+[<img align="left" alt="Ubuntu" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" />][website_ubuntu]
 
 <br>
 
@@ -76,6 +76,7 @@
 [website_keras]: https://keras.io/
 [website_altium_designer]: https://www.altium.com/altium-designer/
 [website_latex]: https://www.latex-project.org/
+[website_ubuntu]: https://ubuntu.com/
 
 Based on:
 * https://www.youtube.com/watch?v=ECuqb5Tv9qI
