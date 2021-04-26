@@ -64,19 +64,19 @@
 
 [website]: https://www.google.com/
 [youtube]: https://www.youtube.com/
-[website_vsc]: https://code.visualstudio.com/
 [website_MCUXpresso]: https://mcuxpresso.nxp.com/en/welcome
+[website_vsc]: https://code.visualstudio.com/
+[website_colab]: https://colab.research.google.com
+[website_python]: https://www.python.org/
+[website_tensorflow]: https://www.tensorflow.org/
+[website_keras]: https://keras.io/
 [website_git]: https://git-scm.com/
 [website_git_alt]: https://git-scm.com/
 [website_github]: https://github.com/
-[website_python]: https://www.python.org/
-[website_tensorflow]: https://www.tensorflow.org/
-[website_hp]: https://pl.wikipedia.org/wiki/Hewlett-Packard
-[website_colab]: https://colab.research.google.com
-[website_keras]: https://keras.io/
 [website_altium_designer]: https://www.altium.com/altium-designer/
 [website_latex]: https://www.latex-project.org/
 [website_ubuntu]: https://ubuntu.com/
+[website_hp]: https://pl.wikipedia.org/wiki/Hewlett-Packard
 
 Based on:
 * https://www.youtube.com/watch?v=ECuqb5Tv9qI
