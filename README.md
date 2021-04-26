@@ -30,6 +30,7 @@
 - [Answer by heniczyna for TensorFlow tutorials Training model with less images than expected](https://stackoverflow.com/questions/61064717/tensorflow-tutorials-training-model-with-less-images-than-expected/62129706#62129706)
 - [TensorFlow tutorials Training model with less images than expected](https://stackoverflow.com/questions/61064717/tensorflow-tutorials-training-model-with-less-images-than-expected)
 <!-- STACKOVERFLOW:END -->
+[![Latest stack overflow activity](https://github.com/heniczyna/heniczyna/actions/workflows/stackoverflow.yml/badge.svg)](https://github.com/heniczyna/heniczyna/actions/workflows/stackoverflow.yml)
 
 [website]: https://www.google.com/
 [youtube]: https://www.youtube.com/
