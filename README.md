@@ -19,6 +19,7 @@
 [<img align="left" alt="Altium_Designer" width="52px" src="https://assets.website-files.com/5cd19234373c953dced9a059/5ce4072d367ffb442822f2d3_Logo%20Altium%20Designer.png" />][website_altium_designer]
 [<img align="left" alt="Latex" width="52px" src="https://seeklogo.com/images/L/Latex-logo-5EAE2E278A-seeklogo.com.png" />][website_latex]
 [<img align="left" alt="Ubuntu" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" />][website_ubuntu]
+[<img align="left" alt="Figma" width="26px" src="https://theme.zdassets.com/theme_assets/9325143/ec27c7adedf401a3bc21f3e389011dfad2caa67b.png" />][website_figma]
 [<img align="left" alt="HP" width="26px" src="https://img.icons8.com/color/48/000000/hp.png" />][website_hp]
 
 <br>
@@ -46,6 +47,7 @@
 [website_altium_designer]: https://www.altium.com/altium-designer/
 [website_latex]: https://www.latex-project.org/
 [website_ubuntu]: https://ubuntu.com/
+[website_figma]: https://www.figma.com//
 [website_hp]: https://pl.wikipedia.org/wiki/Hewlett-Packard
 
 <br>
