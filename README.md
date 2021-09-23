@@ -31,6 +31,7 @@
 
 # :star: Latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by heniczyna for Github Markdown : Is it possible to put links under emojis?](https://stackoverflow.com/questions/48331389/github-markdown-is-it-possible-to-put-links-under-emojis/69297380#69297380)
 - [How to check if model is quantized](https://stackoverflow.com/questions/67070662/how-to-check-if-model-is-quantized)
 - [Git History VSC does not show additional info about Renamed file and TortoiseGit does](https://stackoverflow.com/questions/66313529/git-history-vsc-does-not-show-additional-info-about-renamed-file-and-tortoisegit)
 - [Answer by heniczyna for TensorFlow tutorials Training model with less images than expected](https://stackoverflow.com/questions/61064717/tensorflow-tutorials-training-model-with-less-images-than-expected/62129706#62129706)
