@@ -1,5 +1,10 @@
 # :star: Contact with me:
 
+[:black_nib:](mailto:person@example.com)
+[✒️](mailto:person@example.com)
+[:memo:](https://www.google.com/)
+[📝](https://www.google.com/)
+
 [<img align="left" alt="google.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="youtube.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
