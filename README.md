@@ -1,13 +1,8 @@
 # :star: Contact with me:
-[:black_nib:](mailto:person@example.com)
-[✒️](mailto:person@example.com)
-[:memo:](https://www.google.com/)
-[📝](https://www.google.com/)
-<!--
-[<img align="left" alt="google.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="youtube.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
--->
 
+[✒️](mailto:chelmikk@o2.pl)
+[📝](https://heniczyna.github.io/www_video_background_noise/)
+<br>
 # :star: Languages and Tools:
 [<img align="left" alt="MCUXpresso" width="26px" src="https://mcuxpresso.nxp.com/static/icon/icon_ide.png" />][website_MCUXpresso]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website_vsc]
@@ -23,9 +18,7 @@
 [<img align="left" alt="Ubuntu" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" />][website_ubuntu]
 [<img align="left" alt="Figma" width="26px" src="https://theme.zdassets.com/theme_assets/9325143/ec27c7adedf401a3bc21f3e389011dfad2caa67b.png" />][website_figma]
 [<img align="left" alt="HP" width="26px" src="https://img.icons8.com/color/48/000000/hp.png" />][website_hp]
-
 <br>
-
 # :star: Latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Answer by heniczyna for Github Markdown : Is it possible to put links under emojis?](https://stackoverflow.com/questions/48331389/github-markdown-is-it-possible-to-put-links-under-emojis/69297380#69297380)
@@ -57,4 +50,10 @@
 Based on:
 * https://www.youtube.com/watch?v=ECuqb5Tv9qI
 * https://github.com/gautamkrishnar/blog-post-workflow
+
+[:black_nib:](mailto:person@example.com)
+[:memo:](https://www.google.com/)
+
+[<img align="left" alt="google.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="youtube.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
