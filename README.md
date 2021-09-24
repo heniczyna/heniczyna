@@ -1,17 +1,14 @@
 # :star: Contact with me:
-
 [:black_nib:](mailto:person@example.com)
 [✒️](mailto:person@example.com)
 [:memo:](https://www.google.com/)
 [📝](https://www.google.com/)
-
+<!--
 [<img align="left" alt="google.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="youtube.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-<br>
+-->
 
 # :star: Languages and Tools:
-
 [<img align="left" alt="MCUXpresso" width="26px" src="https://mcuxpresso.nxp.com/static/icon/icon_ide.png" />][website_MCUXpresso]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website_vsc]
 [<img align="left" alt="Colab" width="26px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />][website_colab]
