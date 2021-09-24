@@ -56,8 +56,8 @@
 [website_figma]: https://www.figma.com//
 [website_hp]: https://pl.wikipedia.org/wiki/Hewlett-Packard
 
-<br>
-
+<!--
 Based on:
 * https://www.youtube.com/watch?v=ECuqb5Tv9qI
 * https://github.com/gautamkrishnar/blog-post-workflow
+-->
