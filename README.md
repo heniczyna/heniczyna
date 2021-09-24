@@ -1,5 +1,4 @@
-# :star: Contact with me:
-
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Contact with me:
 [✒️](mailto:chelmikk@o2.pl)
 [📝](https://heniczyna.github.io/www_video_background_noise/)
 <br>
