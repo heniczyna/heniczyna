@@ -21,7 +21,7 @@
 # :star: Latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [TensorFlow Lite Micro Failed to get registration from op code ADD](https://stackoverflow.com/questions/69540722/tensorflow-lite-micro-failed-to-get-registration-from-op-code-add)
-- [Answer by heniczyna for Add image with link in Github's README.md?](https://stackoverflow.com/questions/61071158/add-image-with-link-in-githubs-readme-md/69316036#69316036)
+- [Answer by heniczyna for Add image with link in Github&#39;s README.md?](https://stackoverflow.com/questions/61071158/add-image-with-link-in-githubs-readme-md/69316036#69316036)
 - [Answer by heniczyna for Github Markdown : Is it possible to put links under emojis?](https://stackoverflow.com/questions/48331389/github-markdown-is-it-possible-to-put-links-under-emojis/69297380#69297380)
 - [How to check if model is quantized](https://stackoverflow.com/questions/67070662/how-to-check-if-model-is-quantized)
 - [Git History VSC does not show additional info about Renamed file and TortoiseGit does](https://stackoverflow.com/questions/66313529/git-history-vsc-does-not-show-additional-info-about-renamed-file-and-tortoisegit)
